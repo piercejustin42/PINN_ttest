@@ -1,6 +1,4 @@
 import numpy as np
-import sklearn.model_selection as model_selection
-import matplotlib.pyplot as plt
 from scipy import stats
 
 #scipy version 1.6.1
